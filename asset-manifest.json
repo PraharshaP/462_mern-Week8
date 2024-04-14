@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/462_mern-week7/static/css/main.6404890f.css",
-    "main.js": "/462_mern-week7/static/js/main.796712ea.js",
-    "static/js/453.5a732a82.chunk.js": "/462_mern-week7/static/js/453.5a732a82.chunk.js",
-    "static/media/applogo.png": "/462_mern-week7/static/media/applogo.a4018d6ba238a504d50d.png",
-    "static/media/cons_image.jpg": "/462_mern-week7/static/media/cons_image.fd33a7478ff080949631.jpg",
-    "index.html": "/462_mern-week7/index.html",
-    "main.6404890f.css.map": "/462_mern-week7/static/css/main.6404890f.css.map",
-    "main.796712ea.js.map": "/462_mern-week7/static/js/main.796712ea.js.map",
-    "453.5a732a82.chunk.js.map": "/462_mern-week7/static/js/453.5a732a82.chunk.js.map"
+    "main.css": "/462_mern-Week8/static/css/main.6404890f.css",
+    "main.js": "/462_mern-Week8/static/js/main.7637cb1b.js",
+    "static/js/453.5a732a82.chunk.js": "/462_mern-Week8/static/js/453.5a732a82.chunk.js",
+    "static/media/applogo.png": "/462_mern-Week8/static/media/applogo.a4018d6ba238a504d50d.png",
+    "static/media/cons_image.jpg": "/462_mern-Week8/static/media/cons_image.fd33a7478ff080949631.jpg",
+    "index.html": "/462_mern-Week8/index.html",
+    "main.6404890f.css.map": "/462_mern-Week8/static/css/main.6404890f.css.map",
+    "main.7637cb1b.js.map": "/462_mern-Week8/static/js/main.7637cb1b.js.map",
+    "453.5a732a82.chunk.js.map": "/462_mern-Week8/static/js/453.5a732a82.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6404890f.css",
-    "static/js/main.796712ea.js"
+    "static/js/main.7637cb1b.js"
   ]
 }
